@@ -380,3 +380,6 @@ button_cancel.place(x=335, y=130)
 
 # Boucle principale
 app.mainloop()
+
+
+# scripted with love by acq
